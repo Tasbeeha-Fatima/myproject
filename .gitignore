@@ -1,0 +1,26 @@
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IDE/editor settings
+.vscode/
+*.sublime-project
+*.sublime-workspace

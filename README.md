@@ -5,6 +5,8 @@ It is part of a hands-on GitHub assignment.
 
 ## File
 
+“Fix typo.”
+
 - `simple-interest.sh`: Shell script to calculate simple interest.
 # My Project
 
